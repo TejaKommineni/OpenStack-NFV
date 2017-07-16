@@ -9,4 +9,4 @@ we implement network functions virtualization (NFV). We realize a simple NFV-ena
 routed network and develop a basic OSPF NFV orchestrator to perform dynamic, 
 zero-impact, network modifications.
 
-![NFV]()https://github.com/TejaKommineni/OpenStack-NFV/blob/master/nfv.png
+![NFV](https://github.com/TejaKommineni/OpenStack-NFV/blob/master/nfv.png)
